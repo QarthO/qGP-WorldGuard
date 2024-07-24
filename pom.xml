@@ -97,7 +97,7 @@
         <dependency>
             <groupId>com.sk89q.worldguard</groupId>
             <artifactId>worldguard-bukkit</artifactId>
-            <version>VERSION</version>
+            <version>7.0.11-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <!-- Paper API -->
