@@ -1,4 +1,4 @@
-package gg.quartzdev.qgpcontexts;
+package gg.quartzdev.qgpworldguard;
 
 import org.bstats.bukkit.Metrics;
 import org.bukkit.plugin.java.JavaPlugin;
